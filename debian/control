@@ -1,0 +1,11 @@
+Source: circle-flags
+Section: universe/misc
+Priority: optional
+Maintainer: Linux Mint <root@linuxmint.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: circle-flags-svg
+Architecture: all
+Description: Circle flags in SVG format
+ A collection of circular flags in SVG format.
