@@ -1,0 +1,4 @@
+debian/files
+debian/circle-flags-svg
+debian/*substvar*
+debian/*debhelper*
