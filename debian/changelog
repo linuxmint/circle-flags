@@ -1,3 +1,10 @@
+circle-flags (2.7.0) xia; urgency=medium
+
+  * Update flags
+  * Add .gitignore
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 14 Apr 2025 11:17:22 +0100
+
 circle-flags (2.6.2) faye; urgency=medium
 
   * Update flags
